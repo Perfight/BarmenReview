@@ -11,7 +11,7 @@ class Bar : Application() {
 
     override fun onCreate() {
         super.onCreate()
-        SharedPreferences.init(this)
+        SharedPreferences.initialize(this)
         realm = Realm.open(
             RealmConfiguration.create(
                 schema = setOf(

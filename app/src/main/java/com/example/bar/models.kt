@@ -4,18 +4,16 @@ import io.realm.kotlin.types.RealmObject
 import io.realm.kotlin.types.annotations.PrimaryKey
 import org.mongodb.kbson.ObjectId
 
-class Notes: RealmObject {
+class Notes : RealmObject {
     @PrimaryKey
     var id: ObjectId = ObjectId()
-
     var name: String = ""
     var description: String = ""
 }
 
-class Ingredient: RealmObject{
+class Ingredient : RealmObject {
     @PrimaryKey
     var id: ObjectId = ObjectId()
-
     var name: String = ""
     var taste: String = ""
     var degree: String = ""
@@ -23,15 +21,14 @@ class Ingredient: RealmObject{
     var mixwith: List<Ingredient>? = null
 }
 
-class Cocktail: RealmObject{
+class Cocktail : RealmObject {
     @PrimaryKey
     var id: ObjectId = ObjectId()
-
     var name: String = ""
     var ingredients: List<Ingredient> = emptyList()
     var instructions: String = ""
     var taste: String = ""
-    var base : String = ""
+    var base: String = ""
     var group: String = ""
-    var color : String = ""
+    var color: String = ""
 }
