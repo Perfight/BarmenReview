@@ -84,4 +84,4 @@
 - [Уровни интеграции](https://github.com/Perfight/BarmenReview/wiki/Уровни-Интеграции)
 - [Логирование](https://github.com/Perfight/BarmenReview/wiki/Логирование)
 - [Тестирование](https://github.com/Perfight/BarmenReview/wiki/Тестирование)
-- [Руководство пользователя](/docs/user_manual.md)
+- [Руководство пользователя](https://github.com/Perfight/BarmenReview/wiki/Руководство-пользователя)
