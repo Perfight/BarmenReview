@@ -81,7 +81,7 @@
 - [Спецификация](https://github.com/Perfight/BarmenReview/wiki/Спецификация)
 - [Требования](https://github.com/Perfight/BarmenReview/wiki/Требования)
 - [Прецеденты](https://github.com/Perfight/BarmenReview/wiki/Прецеденты)
-- [Уровни интеграции](/docs/integration.md)
+- [Уровни интеграции](https://github.com/Perfight/BarmenReview/wiki/Уровни-Интеграции)
 - [Логирование](/docs/logging.md)
 - [Тестирование](/docs/testing.md)
 - [Руководство пользователя](/docs/user_manual.md)
