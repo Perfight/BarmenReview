@@ -77,7 +77,7 @@
 
 
 ## Документация
-- [Техническое задание](/docs/SRS.md)
+- [Техническое задание](https://github.com/Perfight/BarmenReview/wiki/Техническое-задание)
 - [Спецификация](/docs/specification.md)
 - [Требования](/docs/requirements.md)
 - [Прецеденты](/docs/use_cases.md)
