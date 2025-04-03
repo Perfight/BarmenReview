@@ -79,7 +79,7 @@
 ## Документация
 - [Техническое задание](https://github.com/Perfight/BarmenReview/wiki/Техническое-задание)
 - [Спецификация](https://github.com/Perfight/BarmenReview/wiki/Спецификация)
-- [Требования](/docs/requirements.md)
+- [Требования](https://github.com/Perfight/BarmenReview/wiki/Требования)
 - [Прецеденты](/docs/use_cases.md)
 - [Уровни интеграции](/docs/integration.md)
 - [Логирование](/docs/logging.md)
